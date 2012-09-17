@@ -1,0 +1,11 @@
+*.class
+*~
+*.o
+*.hi
+Main
+*.aux
+*.bak
+*.log
+*.gz
+*.pdf
+E2DataFileBK30.e2
